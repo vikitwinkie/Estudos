@@ -1,0 +1,70 @@
+Módulo 2 (Estilo)
+Site de icon:  https://favicon.io/
+Site para cores:  w3schools.com/colors/colors_hsl.asp
+Site para cores:  https://color.adobe.com/pt/create/color-wheel
+" :  https://palette.com/
+" :  https://palette.com/
+Site para fontes:  shttps://fonts.google.com/
+" :  https://www.dafont.com/pt/
+
+Representações de cores:
+Nome: blue; white; black;
+Hexadecimal: #0000ff;
+RGB; red green blue
+HSL: hue saturation luminosity
+background-image: linear-gradiente
+height: altura
+weight: peso
+width: largura
+background-attachmet: fixed; (deixa o degrade fixo)
+padding: acolchoamento
+margin: margem
+border-radious: cantos arrendondados
+box-shadow: sombras
+configurações de fonte:
+font-size
+font-style
+font-weight
+font-family	
+Medidas abosolutas: cm, mm, in, px, pt, pc
+Medidas relativas: em, ex, rem, vw, vh, %
+lighter: leve
+bold: escuro
+bolder: mais negrito
+normal: normal
+shorthand: simplifica
+@import url = fonte exterior
+otf = open type font
+tfg= true type font
+@font-face
+font-family: font name
+scr: url format
+id = identificador único
+#= indentificador em css
+class= vários
+. = class em css
+div = agrupar 
+display: alinhamento
+: = pseudoclass (estado do elemento)
+hover: passou mouse muda.
+> dentro
+text-decoration: texto decorativo
+:: pseudo elemento: tempo.
+border = linha que circunda o conteudo
+padding= preenchimento
+margin: margem
+outline= contorno	
+box-level= pula linha
+inline-level= dentro da linha
+span= agrupar em inline level
+header= cabeçalho
+main= contéudo ou principal
+footer= rodapé
+nav= links
+section= sessão
+article= artigo
+aside= definição
+box-shadow= sombra
+border-image-soure: imagem de umama borda de fora
+" repeat: repetir
+slice: fatiar

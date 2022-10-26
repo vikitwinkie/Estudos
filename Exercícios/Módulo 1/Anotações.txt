@@ -1,0 +1,93 @@
+Módulo 1 (Textos, Parágrafos, Símbolos)
+Sites: iana.org/assignments/media-type
+https://emojipedia.org/ - Site de cod dos emoji
+
+UTF-8 (Linguagem de codificação binária de comprimento variável que perime-te qualquer tipo de caracter)
+Lang - Idioma (PT-BR, ENG...)
+Tittle - título
+Head - Cabeça
+Body - Corpo
+h1 - Subtítulo (h2, h3, h4, h5, h6)
+p - Parágrafo
+&lt; - <
+&gt; - >
+Br - Quebra linha
+& - Pra adicionar símbolos ( escrever símbolos em inglês: reg, copy, trade, euro, pound)
+&#x - para colocar emoji 
+licença CC (creative comments) - Livre uso
+Formatos (P, M, G)
+jpeg - não suporta transparência, pequeno 
+png - suporta transparência, versátil 
+img - imagem
+alt - texto alternativo  para explicação
+src - source "origem"
+favicon - icon do site
+https://favicon.io/ - Site pra transformar em favicon
+link rel="shortcut icon" href="favicon" type image=/'x-icon"
+a - link
+style - onde fica guardado os estilos da pagina  (é acompanhada por {} da forma que:
+<style>
+body  {
+background-color: ####
+}
+</style>
+background-color: cor do fundo
+address- tag de endereço
+strong - tag negrito
+mark - marcador  (para mudar a cor do marcador <mark style="background-color: ####"> e para mudar todos os mark criar tag style e dentro dela modificar da seguinte forma:
+<style>
+    mark  { 
+         background-color: ####
+    }
+ </style>
+small - texto pequeno
+ctrl+alt+p+emmet: envelopar 
+ctrl+space bar: localiza arquivos
+ins - texto inserido 
+u - texto sublinhado
+sup - sobrescrito (exemplo fórmulas matemáticas)
+sub - subescrito ( exemplo fórmulas químicas)
+code - tag para envelopar códigos
+q- citações
+blockquote- bloco de citação
+blockquote cite="link####"
+abbr - abreviações
+bdo-texto invertido (dir=ltr ou rtrl {left to the right ou right to the left})
+ol - lista ordenada
+type for ol - 1, a, A, VX
+li - item de lista
+ul- listas não ordenada
+type for ul - square, circle 
+dt - termo
+dd- definição
+target="_blank"- abrir nova abaf
+rel="next" - proximo
+rel="prev" - anterior
+ ../ - voltar primeira pagina a terceiros 
+ type="application/pdf" - para download
+ type="application/zip" - download zip
+ source- imgagem flexível 
+ scrset="" - localidade
+ audio - colocar audio
+ controls autoplay - controles de play
+ <!-- --> - Anotação
+ type="audio/mpeg"
+ Media Types servem para direcionar um determinado CSS para um determinado tipo de meio de acesso.
+ Modelos de audio:
+ mp3 (mpeg
+ wav
+ ogg
+ Modelos de video:
+ mp4
+ m4v
+ webm
+video controls
+source
+<iframe> - para incorporar videos externo
+font-family: fonte das letras/palavras no site todo
+text-align: alinhamento
+font-size: tamanho
+ctrl+h: corrigir código
+ctrl+f: localizar palavra
+link p/css
+@charset ut8: linguagem
