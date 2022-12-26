@@ -3,4 +3,54 @@
 
 body{
     background-image: url(imagens/wallpaper001.jpg) ;
+    background-size: 100px 100px;
+    background-repeat: round;
 }
+
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div.quadrado {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+}
+
+    div#q1{
+        background-color: rgb(53, 64, 224);
+    }
+
+    div#q2{
+        background-image: linear-gradient(to bottom, rgb(95, 15, 95), darkviolet);
+    }
+
+    div#q3{
+        background-image: url(imagens/pattern001.png);
+        background-size: 100%;
+    }
+
+        div.bloco{
+   
+            border: 2px solid black;
+            border-radius: 20px;
+            height: 200px;
+            background-image: url(imagens/wallpaper002.jpg);
+            margin: 10px;
+        }
+
+        div#b1{
+            background-position: left top;
+        }
+        div#b2{
+            background-position: left center;
+        }
+        div#b3{
+            background-position: right bottom;
+        }
+        div#b4{
+            background-position: center center;
+        }
