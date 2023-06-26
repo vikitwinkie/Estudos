@@ -1,4 +1,2 @@
 # Estudos
- Exercícios
-
-estou aprendendo a fazer sites, esse é meu repositorio github.
+Pretendo me matar logo logo <3 
